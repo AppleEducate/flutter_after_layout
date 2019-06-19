@@ -1,5 +1,5 @@
-import 'package:flutter/widgets.dart';
-import 'package:flutter_test/flutter_test.dart';
+import 'package:flutter_web/widgets.dart';
+import 'package:flutter_web_test/flutter_web_test.dart';
 import 'package:after_layout/after_layout.dart';
 
 void main() {

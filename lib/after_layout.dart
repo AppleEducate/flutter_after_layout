@@ -1,6 +1,6 @@
 library after_layout;
 
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/widgets.dart';
 
 mixin AfterLayoutMixin<T extends StatefulWidget> on State<T> {
   @override
